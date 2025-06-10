@@ -14,7 +14,7 @@
 
 フォルダ内に次の2つのファイルがあることを確認してください：
 
-- `RealTime_Jp2txt.exe`：実行可能ファイル（インストール不要）
+- `RealTime_Jp2txt.exe`：実行可能ファイル（インストール不要）： **右側の `Releases` からダウンロード**
 
 - `API_Key.txt`：OpenAI の API キーを保存するテキストファイル（GPT-4o対応）
 

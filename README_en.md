@@ -14,7 +14,7 @@ Ideal for meeting documentation, language learning, subtitle assistance, and mor
 
 Make sure the folder contains the following two files:
 
-- `RealTime_Jp2txt.exe`: The packaged executable program
+- `RealTime_Jp2txt.exe`: The packaged executable program: **Download from `Releases` on the righ**
 
 - `API_Key.txt`: A text file containing your personal OpenAI API Key (supports GPT-4o)
 

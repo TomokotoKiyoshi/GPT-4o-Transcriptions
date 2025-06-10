@@ -16,7 +16,7 @@ Ideal for meeting documentation, language learning, subtitle assistance, and mor
 
 Make sure the folder contains the following two files:
 
-- `RealTime_Jp2txt.exe`: The packaged executable program
+- `RealTime_Jp2txt.exe`: The packaged executable program: **Download from `Releases` on the righ**
 
 - `API_Key.txt`: A text file containing your personal OpenAI API Key (supports GPT-4o)
 
@@ -161,7 +161,7 @@ Python source code is located in the `Pycode` folder.
 
 - 确保文件夹中存在两个文件：
   
-  - `RealTime_Jp2txt.exe`：已打包好的可执行程序
+  - `RealTime_Jp2txt.exe`：已打包好的可执行程序: **在右侧的`Releases`里下载**
   
   - `API_Key.txt`：存放你自己的 OpenAI API Key（GPT-4o 版本支持）
 
