@@ -141,6 +141,10 @@ Python source code is located in the `Pycode` folder.
 
 ---
 
+📧 For any questions or issues, please contact the author:**heu_xuyouyan@outlook.com**
+
+---
+
 # 实时日语字幕转写系统（附带关键词功能）
 
 ## 🧩 简介
@@ -279,3 +283,7 @@ Python source code is located in the `Pycode` folder.
 | `API_Key.txt`         | 存放 OpenAI API Key 的文本文件 |
 
 python源码在`Pycode`文件夹中
+
+---
+
+📧 如有任何问题，请联系作者：**heu_xuyouyan@outlook.com**

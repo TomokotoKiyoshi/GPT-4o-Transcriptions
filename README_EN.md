@@ -136,3 +136,7 @@ Inside the `Transcription` folder, there are two files:
 | `API_Key.txt`         | Text file containing the OpenAI API Key                      |
 
 Python source code is located in the `Pycode` folder.
+
+---
+
+📧 For any questions or issues, please contact the author: **heu_xuyouyan@outlook.com**

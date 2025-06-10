@@ -136,3 +136,7 @@ sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 | `API_Key.txt`         | OpenAI API キーを保存するテキストファイル    |
 
 Python のソースコードは `Pycode` フォルダ内にあります。
+
+---
+
+📧 ご不明な点や問題がございましたら、作者（heu_xuyouyan@outlook.com）までご連絡ください。
